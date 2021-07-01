@@ -1,0 +1,20 @@
+body{
+
+    background-color: rgb(169, 210, 230);
+    
+}
+
+
+h1{ 
+
+
+background-color:rgb(65, 115, 182) ;
+text-align: center;
+padding: 30px;
+font-style: arial;
+color: #ffffff;
+margin: 0%;
+font-size: 60px
+;
+
+}
